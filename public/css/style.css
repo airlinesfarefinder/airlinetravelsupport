@@ -294,7 +294,7 @@ a:hover {
 }
 
 ul.navbar_st {
-    margin: 0 0 0 95px;
+    margin: 0 0 0 2px;
 }
 
 .tollfree {
@@ -324,7 +324,7 @@ ul.navbar_st {
     font-size: 11px;
     display: block;
     letter-spacing: 0;
-    text-align: right;
+    text-align: center;
     color: #222222;
     font-weight: 600;
     margin: 7px 0 3px 0;
@@ -411,7 +411,7 @@ img.logo {
 } */
 
 .about_picture {
-    margin: 94px 0 0 0;
+    margin: 30px 0 5px 0;
 }
 
 .about_picture img {
